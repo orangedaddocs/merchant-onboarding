@@ -95,8 +95,8 @@ Each analysis shows three options with 5-year projections:
 ├── merchant-conversation-guide.pdf
 ├── why-015-bitcoin-matters.pdf
 ├── two-pagers/
-│   ├── 2-page-brewery.pdf
 │   ├── 2-page-coffee-shop.pdf
+│   ├── 2-page-brewery.pdf
 │   └── 2-page-liquor-store.pdf
 └── qr-codes/
     ├── coffee-shop-qr.png
