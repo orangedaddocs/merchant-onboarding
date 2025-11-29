@@ -20,8 +20,8 @@ Complete toolkit for Bitcoiners who want to help local businesses accept Bitcoin
 These are designed for busy owners who don't have 20 minutes. Front page hooks them with the pain point and answers their immediate objections. Back page explains how it works. QR code links to the full analysis. Print on card stock. If you catch the owner, great. If not, ask the team to make sure they see it.
 
 **QR Codes (link to full analyses):**
-- [Coffee Shop QR](qr-codes/coffee-shop-qr.png)
 - [Brewery QR](qr-codes/brewery-qr.png)
+- [Coffee Shop QR](qr-codes/coffee-shop-qr.png)
 - [Liquor Store QR](qr-codes/liquor-store-qr.png)
 
 **Implementation Tools:**
