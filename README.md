@@ -13,9 +13,9 @@ Complete toolkit for Bitcoiners who want to help local businesses accept Bitcoin
 - [Bitcoin Payments for Your Liquor Store](liquor-store-analysis.pdf) - $700K revenue model (~20 min)
 
 **Two-Page Leave-Behinds (Print on Card Stock):**
-- [Coffee Shop Two-Pager](two-pagers/coffee-shop-card.md) - Drop off for the owner
-- [Brewery Two-Pager](two-pagers/brewery-card.md) - Drop off for the owner
-- [Liquor Store Two-Pager](two-pagers/liquor-store-card.md) - Drop off for the owner
+- [Brewery Two-Pager](two-pagers/2-page-brewery.pdf) - Drop off for the owner
+- [Coffee Shop Two-Pager](two-pagers/2-page-coffee-shop.pdf) - Drop off for the owner
+- [Liquor Store Two-Pager](two-pagers/2-page-liquor-store.pdf) - Drop off for the owner
 
 These are designed for busy owners who don't have 20 minutes. Front page hooks them with the pain point and answers their immediate objections. Back page explains how it works. QR code links to the full analysis. Print on card stock. If you catch the owner, great. If not, ask the team to make sure they see it.
 
